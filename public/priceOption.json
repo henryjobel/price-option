@@ -1,0 +1,40 @@
+{
+    "priceOptions": [
+      {
+        "id": 1,
+        "name": "Basic Membership",
+        "price": "$30/month",
+        "features": [
+          "Access to gym facilities during regular hours",
+          "Basic fitness equipment usage",
+          "Locker room access"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Premium Membership",
+        "price": "$50/month",
+        "features": [
+          "Unlimited access to gym facilities, including extended hours",
+          "Full range of fitness equipment and machines",
+          "Access to group fitness classes",
+          "Personalized workout plans",
+          "Locker room access with complimentary towels"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Family Membership",
+        "price": "$90/month",
+        "features": [
+          "Access for up to 4 family members",
+          "Unlimited access to gym facilities, including extended hours",
+          "Full range of fitness equipment and machines",
+          "Access to group fitness classes",
+          "Personalized workout plans",
+          "Locker room access with complimentary towels"
+        ]
+      }
+    ]
+  }
+  

@@ -1,12 +1,14 @@
 
 import './App.css'
-
+import Navbar from './Components/Navbar/Navbar'
+import Priceoptions from './Components/PriceOptioins/Priceoptions'
 function App() {
   
 
   return (
     <>
-     <button className="btn btn-outline btn-primary">Primary</button>
+    <Navbar></Navbar>
+    <Priceoptions></Priceoptions>
     </>
   )
 }
